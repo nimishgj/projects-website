@@ -23,6 +23,12 @@ theme: "minima"
 minima:
   skin: dark
 
+feed:
+  disable: true
+
+sitemap:
+  disable: true
+
 kramdown:
   syntax_highlighter_opts:
     disable: true
